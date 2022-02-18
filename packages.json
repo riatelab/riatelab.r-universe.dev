@@ -1,0 +1,42 @@
+[
+    {
+        "package": "mapsf",
+        "url": "https://github.com/riatelab/mapsf"
+    },
+    {
+        "package": "MTA",
+        "url": "https://github.com/riatelab/MTA"
+    },
+    {
+        "package": "maptiles",
+        "url": "https://github.com/riatelab/maptiles"
+    },
+    {
+        "package": "osrm",
+        "url": "https://github.com/riatelab/osrm"
+    }, 
+        {
+        "package": "fisheye",
+        "url": "https://github.com/riatelab/fisheye"
+    }, 
+    {
+        "package": "tanaka",
+        "url": "https://github.com/riatelab/tanaka"
+    }, 
+    {
+        "package": "potential",
+        "url": "https://github.com/riatelab/potential"
+    },
+    {
+        "package": "linemap",
+        "url": "https://github.com/riatelab/linemap"
+    }, 
+    {
+        "package": "cartography",
+        "url": "https://github.com/riatelab/cartography"
+    }, 
+    {
+        "package": "SpatialPosition",
+        "url": "https://github.com/riatelab/SpatialPosition"
+    } 
+]
