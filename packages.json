@@ -38,5 +38,9 @@
     {
         "package": "SpatialPosition",
         "url": "https://github.com/riatelab/SpatialPosition"
+    },
+    {
+       "package": "flows",
+       "url": "https://github.com/riatelab/flows"
     } 
 ]
