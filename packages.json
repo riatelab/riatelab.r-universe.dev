@@ -36,11 +36,11 @@
         "url": "https://github.com/riatelab/cartography"
     }, 
     {
-        "package": "SpatialPosition",
-        "url": "https://github.com/riatelab/SpatialPosition"
-    },
-    {
        "package": "flows",
        "url": "https://github.com/riatelab/flows"
-    } 
+    }, 
+    {
+       "package": "mapiso",
+       "url": "https://github.com/riatelab/mapiso"
+    }
 ]
