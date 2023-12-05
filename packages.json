@@ -42,5 +42,9 @@
     {
        "package": "mapiso",
        "url": "https://github.com/riatelab/mapiso"
+    },
+    {
+       "package": "maplegend",
+       "url": "https://github.com/riatelab/maplegend"
     }
 ]
