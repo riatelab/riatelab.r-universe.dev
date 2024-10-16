@@ -46,5 +46,9 @@
     {
        "package": "maplegend",
        "url": "https://github.com/riatelab/maplegend"
+    }, 
+    {
+       "package": "gepaf",
+       "url": "https://github.com/riatelab/gepaf"
     }
 ]
