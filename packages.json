@@ -50,5 +50,9 @@
     {
        "package": "gepaf",
        "url": "https://github.com/riatelab/gepaf"
+    },
+    {
+       "package": "distanamo",
+       "url": "https://github.com/riatelab/distanamo"
     }
 ]
