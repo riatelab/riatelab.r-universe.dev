@@ -60,6 +60,10 @@
        "url": "https://github.com/riatelab/maposm"
     },
     {
+       "package": "valh",
+       "url": "https://github.com/riatelab/valh"
+    },
+    {
        "package": "mapinsetr",
        "url": "https://github.com/riatelab/mapinsetr"
     }
