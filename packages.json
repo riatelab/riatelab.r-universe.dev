@@ -57,7 +57,8 @@
     },
     {
        "package": "maposm",
-       "url": "https://github.com/riatelab/maposm"
+       "url": "https://github.com/riatelab/maposm",
+       "branch" : "*release"
     },
     {
        "package": "valh",
