@@ -1,7 +1,8 @@
 [
     {
         "package": "mapsf",
-        "url": "https://github.com/riatelab/mapsf"
+        "url": "https://github.com/riatelab/mapsf", 
+        "branch" : "dev"
     },
     {
         "package": "MTA",
@@ -45,7 +46,8 @@
     },
     {
        "package": "maplegend",
-       "url": "https://github.com/riatelab/maplegend"
+       "url": "https://github.com/riatelab/maplegend", 
+        "branch" : "dev"
     }, 
     {
        "package": "gepaf",
@@ -57,7 +59,8 @@
     },
     {
        "package": "maposm",
-       "url": "https://github.com/riatelab/maposm"
+       "url": "https://github.com/riatelab/maposm",
+       "branch" : "*release"
     },
     {
        "package": "valh",
