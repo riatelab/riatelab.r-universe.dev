@@ -14,7 +14,8 @@
     },
     {
         "package": "osrm",
-        "url": "https://github.com/riatelab/osrm"
+        "url": "https://github.com/riatelab/osrm",
+        "branch" : "dev"
     }, 
         {
         "package": "fisheye",
@@ -47,7 +48,7 @@
     {
        "package": "maplegend",
        "url": "https://github.com/riatelab/maplegend", 
-        "branch" : "dev"
+       "branch" : "dev"
     }, 
     {
        "package": "gepaf",
