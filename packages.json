@@ -10,7 +10,8 @@
     },
     {
         "package": "maptiles",
-        "url": "https://github.com/riatelab/maptiles"
+        "url": "https://github.com/riatelab/maptiles",
+         "branch" : "dev"
     },
     {
         "package": "osrm",
