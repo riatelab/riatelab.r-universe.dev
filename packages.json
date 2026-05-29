@@ -71,5 +71,9 @@
     {
        "package": "mapinsetr",
        "url": "https://github.com/riatelab/mapinsetr"
+    }, 
+    {
+       "package": "citymix",
+       "url": "https://codeberg.org/rCarto/citymix"
     }
 ]
