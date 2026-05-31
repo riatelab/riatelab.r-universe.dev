@@ -75,5 +75,9 @@
     {
        "package": "citymix",
        "url": "https://codeberg.org/rCarto/citymix"
+    },
+    {
+       "package": "mapsf.gui",
+       "url": "https://codeberg.org/riatelab/mapsf.gui"
     }
 ]
