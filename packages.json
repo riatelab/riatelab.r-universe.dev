@@ -79,5 +79,12 @@
     {
        "package": "mapsf.gui",
        "url": "https://codeberg.org/riatelab/mapsf.gui"
+    },     {
+       "package": "geoviz",
+       "url": "https://github.com/riatelab/geoviz_R"
+    }, 
+        {
+       "package": "planisphere",
+       "url": "https://github.com/riatelab/planisphere"
     }
 ]
