@@ -80,7 +80,7 @@
        "package": "mapsf.gui",
        "url": "https://codeberg.org/riatelab/mapsf.gui"
     },     {
-       "package": "geoviz",
+       "package": "geovizr",
        "url": "https://github.com/riatelab/geovizr"
     }, 
         {
