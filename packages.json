@@ -78,12 +78,14 @@
     },
     {
        "package": "mapsf.gui",
-       "url": "https://codeberg.org/riatelab/mapsf.gui"
-    },     {
+       "url": "https://codeberg.org/riatelab/mapsf.gui",
+       "branch" : "dev"
+    },
+    {
        "package": "geovizr",
        "url": "https://github.com/riatelab/geovizr"
-    }, 
-        {
+    },
+    {
        "package": "planisphere",
        "url": "https://github.com/riatelab/planisphere"
     }
