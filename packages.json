@@ -61,7 +61,7 @@
     },
     {
        "package": "maposm",
-       "url": "https://github.com/riatelab/maposm",
+       "url": "https://codeberg.org/riatelab/maposm",
        "branch" : "*release"
     },
     {
