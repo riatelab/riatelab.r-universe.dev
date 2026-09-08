@@ -61,8 +61,7 @@
     },
     {
        "package": "maposm",
-       "url": "https://codeberg.org/riatelab/maposm",
-       "branch" : "*release"
+       "url": "https://codeberg.org/riatelab/maposm"
     },
     {
        "package": "valh",
