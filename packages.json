@@ -15,7 +15,7 @@
     },
     {
         "package": "osrm",
-        "url": "https://github.com/riatelab/osrm"
+        "url": "https://codeberg.org/riatelab/osrm"
     }, 
         {
         "package": "fisheye",
